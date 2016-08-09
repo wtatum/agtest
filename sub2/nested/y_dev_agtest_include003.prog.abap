@@ -1,12 +1,10 @@
 *&---------------------------------------------------------------------*
-*& Report  Y_DEV_AGTEST_MAIN
+*& Report  Y_DEV_AGTEST_INCLUDE003
 *&
 *&---------------------------------------------------------------------*
 *&
 *&
 *&---------------------------------------------------------------------*
-REPORT Y_DEV_AGTEST_MAIN.
+REPORT Y_DEV_AGTEST_INCLUDE003.
 
-INCLUDE Y_DEV_AGTEST_INCLUDE001.
-
-WRITE /1 'Hello Jake'.
+WRITE /1 'Another test'.
